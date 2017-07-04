@@ -515,7 +515,3 @@ fieldset[disabled] .btn-success.active {
 div#maincontent {
   outline: none;
 }
-
-section .container .row .col-lg-4 p {
-  text-align: right;
-}
