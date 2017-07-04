@@ -193,6 +193,8 @@ section.success {
   }
 }
 
+section.success div.container div.row div.col-lg-4
+
 #portfolio .portfolio-item {
   margin: 0 0 15px;
   right: 0;
