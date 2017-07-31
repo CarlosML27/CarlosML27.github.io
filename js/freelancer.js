@@ -28,7 +28,7 @@
         offset: {
             top: 100
         }
-    })
+    });
 
     // Floating label headings for the contact form
     $(function() {
@@ -38,6 +38,12 @@
             $(this).addClass("floating-label-form-group-with-focus");
         }).on("blur", ".floating-label-form-group", function() {
             $(this).removeClass("floating-label-form-group-with-focus");
+        });
+    });
+
+    $(document).ready(function () {
+        $(".btn").click(function (event) {
+            $(this).blur();
         });
     });
 
