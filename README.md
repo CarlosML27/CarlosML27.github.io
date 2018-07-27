@@ -1,6 +1,6 @@
 # Carlos Morente
 
-http://www.carlosmorentedev.com/
+http://www.carlosmorente.com/
 
 This is my personal portfolio. Be sure to check out my last projects!
 
